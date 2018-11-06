@@ -1,0 +1,14 @@
+C:\Users\gervv\Desktop\studbaza\up\bluetooth\blutacz\blutacz\bin\Debug\blutacz.exe.config
+C:\Users\gervv\Desktop\studbaza\up\bluetooth\blutacz\blutacz\bin\Debug\blutacz.exe
+C:\Users\gervv\Desktop\studbaza\up\bluetooth\blutacz\blutacz\bin\Debug\blutacz.pdb
+C:\Users\gervv\Desktop\studbaza\up\bluetooth\blutacz\blutacz\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\gervv\Desktop\studbaza\up\bluetooth\blutacz\blutacz\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\gervv\Desktop\studbaza\up\bluetooth\blutacz\blutacz\obj\Debug\blutacz.csprojAssemblyReference.cache
+C:\Users\gervv\Desktop\studbaza\up\bluetooth\blutacz\blutacz\obj\Debug\blutacz.Form1.resources
+C:\Users\gervv\Desktop\studbaza\up\bluetooth\blutacz\blutacz\obj\Debug\blutacz.Properties.Resources.resources
+C:\Users\gervv\Desktop\studbaza\up\bluetooth\blutacz\blutacz\obj\Debug\blutacz.csproj.GenerateResource.cache
+C:\Users\gervv\Desktop\studbaza\up\bluetooth\blutacz\blutacz\obj\Debug\blutacz.csproj.CoreCompileInputs.cache
+C:\Users\gervv\Desktop\studbaza\up\bluetooth\blutacz\blutacz\obj\Debug\blutacz.csproj.CopyComplete
+C:\Users\gervv\Desktop\studbaza\up\bluetooth\blutacz\blutacz\obj\Debug\blutacz.exe
+C:\Users\gervv\Desktop\studbaza\up\bluetooth\blutacz\blutacz\obj\Debug\blutacz.pdb
+C:\Users\gervv\Desktop\studbaza\up\bluetooth\blutacz\blutacz\obj\Debug\blutacz.Form2.resources
